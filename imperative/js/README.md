@@ -18,3 +18,17 @@ brew install npm
 sudo apt-get update
 sudo apt install nodejs
 ```
+
+# Language Reference
+
+Variablle assignments are in the form `x = 1;` There are further details...
+- var is function scoped 
+- let is block scoped and only initialized to value when parser evaluates it
+- `const` is a read-only named constant
+
+---
+
+# References
+
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements
+* https://www.ecma-international.org/publications/standards/Ecma-262.htm
