@@ -1,5 +1,11 @@
-README
+# README
 
+![Diagram](diagram.png)
+
+[Video demonstrations](https://youtube.com/playlist?list=PL8HPPNCXDcvzDJqu1c8Z86qMZRym3exmm)
+
+## Steps
+	
 1. Process yacc grammar file, use -d flag to define tokens
   This will create y.tab.c and y.tab.h files
 
