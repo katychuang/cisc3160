@@ -2,6 +2,7 @@
 #include <stdio.h>
 int regs[26];
 int base;
+int yylex();
 %}
 %start list
 %token DIGIT LETTER
